@@ -1,4 +1,4 @@
-# my-website
+# My Website
 This is a really awasome website
 
-now update on the update readme branch.
+Updates made on github before rebase
