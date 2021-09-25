@@ -1,6 +1,4 @@
 # my-website
-This is my readme file
-
-edit on example branch.
+This is a really awasome website
 
 now update on the update readme branch.
