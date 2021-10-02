@@ -3,8 +3,11 @@ This is a really awasome website
 
 Updates made on github before rebase
 
-On demo branch again
+	Repository purpose
 
-## Repository Purpose
+This is just a readme file
+
 ## Purpose
-This file is just a readme file
+
+`The purpose of this file is to provide examples 
+on how to use Git and Github together 
